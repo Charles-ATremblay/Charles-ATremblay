@@ -12,16 +12,6 @@ I'm a passionate full-stack web developer with a background in computer science.
 - 🚀 Love optimizing iOS code and migrating to Swift
 - 🏒 Hockey enthusiast and player in my spare time
 
-## My Projects
-
-Here are some of the projects you'll find in my repositories:
-
-- [Project 1](link-to-project-1): A brief description of what it does.
-- [Project 2](link-to-project-2): Another project with its purpose.
-- [Project 3](link-to-project-3): And one more for good measure.
-
-Feel free to explore these projects to see my coding skills in action!
-
 ## Contact Me
 
 Let's connect and discuss tech, collaborate on projects, or just chat about hockey:
